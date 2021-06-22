@@ -6,3 +6,4 @@ flask-wtf
 flask-sqlalchemy
 flask-bcrypt
 email-validator
+flask-MySQLdb
