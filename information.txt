@@ -1,0 +1,3 @@
+1.tree --> command for tree structure of the project.
+2.ctrl + G ---> Line number and column number.
+3.Upto now Registration, Login and Logout are working with hashed_password and check_password_hash methods in routes.py file.
